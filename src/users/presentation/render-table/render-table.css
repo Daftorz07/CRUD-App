@@ -1,0 +1,12 @@
+
+
+
+table{
+    background-color: rgba(0, 0, 0, 0.26);
+    border-radius: 7px;
+    padding: 5px;
+}
+
+th, td, a{
+    padding: 0 3px;
+}

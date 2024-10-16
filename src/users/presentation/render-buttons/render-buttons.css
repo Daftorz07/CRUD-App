@@ -1,0 +1,9 @@
+button {
+  margin: 10px;
+}
+
+#current-page {
+  color: aliceblue !important;
+  font-size: 1.3rem;
+  margin: 0 10px;
+}
